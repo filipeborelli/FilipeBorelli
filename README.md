@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
-<h4 align="center">Desenvolvimento de automações.</h4>
+<h4>Desenvolvedor de automações.</h4>
 
 </br>
 </br>
