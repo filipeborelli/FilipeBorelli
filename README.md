@@ -7,10 +7,10 @@
 </br>
 </br>
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodejs" width="40" height="40"/> 
+<p align="center"><img src="https://icongr.am/devicon/express-original-wordmark.svg?size=148&color=currentColor" alt="express" width="50" height="50"/> 
+<img src="https://icongr.am/devicon/javascript-plain.svg?size=148&color=currentColor" alt="javascript" width="50" height="50"/> 
+<img src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=148&color=currentColor" alt="mysql" width="50" height="50"/> 
+<img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=148&color=currentColor" alt="nodejs" width="50" height="50"/> 
 
 <div display="flex" flex-direction="row" align="center">
 
