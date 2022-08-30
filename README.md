@@ -7,8 +7,13 @@
 ##### BIO
 
 🏢 I'm currently working at **Hyperflow.global**
+    <br>
 ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
+    <br>
 🌍 I'm mostly active within the **Typescript Community**
+    <br>
 💅 Designed: [Baileys Api](https://github.com/filipeborelli/APIWHATST), [WIRU](https://github.com/filipeborelli/wiru)
+    <br>
 🌱 Learning all about **Open Source**
+    <br>
 📫 Reach me: [linkedin](https://www.linkedin.com/in/filipe-borelli-364426138/)
