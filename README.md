@@ -8,7 +8,7 @@
 
 🏢 I'm currently working at **Hyperflow.global**
     <br>
-⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`
+⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `aws`, `kafka`, `rabbitmq`, `solid`
     <br>
 🌍 I'm mostly active within the **Typescript Community**
     <br>
