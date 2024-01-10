@@ -6,7 +6,7 @@
 
 ##### BIO
 
-🏢 I'm currently working at **Hyperflow.global**
+🏢 I'm currently working at **Borelli**
     <br>
 ⚙️ I use daily: `.ts`, `.js`, `.tsx`, `.jsx`, `aws`, `kafka`, `rabbitmq`, `solid`
     <br>
