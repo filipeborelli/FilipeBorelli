@@ -2,7 +2,7 @@
 
 #### BackEnd Node.Js Developer working in Brazil.
 [![Instagram Badge](https://img.shields.io/badge/-@filipe.borelli-352856?style=flat-square&labelColor=1A132B&logo=instagram&logoColor=white&link=https://www.instagram.com/filipe.borelli)](https://www.instagram.com/filipe.borelli) 
-[![Linkedin Badge](https://img.shields.io/badge/-@filipe.borelli-352856?style=flat-square&labelColor=1A132B&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-borelli-364426138/)](https://www.linkedin.com/in/filipe-borelli-364426138/) 
+[![Linkedin Badge](https://img.shields.io/badge/-@filipe.borelli-352856?style=flat-square&labelColor=1A132B&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeborelli/)](https://www.linkedin.com/in/filipeborelli/) 
 
 ##### BIO
 
